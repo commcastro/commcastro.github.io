@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "basics": [{
     "name": "Nelson Castro",
     "label": "Researcher",
     "image": "",
@@ -10,7 +10,7 @@
       "city": "Birmingham",
       "countryCode": "UK",
     },
-  },
+  }],
   "work": [
     {
       "name": "Microsoft Research Cambridge",
