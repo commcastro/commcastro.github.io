@@ -8,8 +8,8 @@
       "address": "James Watt, Aston Street",
       "postalCode": "B4 7EN",
       "city": "Birmingham",
-      "countryCode": "UK",
-    },
+      "countryCode": "UK"
+    }
   }],
   "work": [
     {
@@ -27,7 +27,7 @@
       "location": "Birmingham, UK",
       "position": "Residence advisor",
       "startDate": "2022-12-28",
-      "summary": "Part of a team of postgraduate students making sure students living in Aston Student Village are receiving the pastoral and welfare support they need.",
+      "summary": "Part of a team of postgraduate students making sure students living in Aston Student Village are receiving the pastoral and welfare support they need."
     }
   ],
   "education": [
@@ -38,7 +38,7 @@
       "studyType": "PhD",
       "startDate": "2021-01-01",
       "endDate": "2025",
-      "summary": "My research focused on developing model-driven deep learning schemes to mitigate transmission impairments in optical fibre links. The proposed algorithms are power-efficient and amenable to parallelisation, offering a potential solution for integrating digital nonlinearity equalisation into future transceivers.",
+      "summary": "My research focused on developing model-driven deep learning schemes to mitigate transmission impairments in optical fibre links. The proposed algorithms are power-efficient and amenable to parallelisation, offering a potential solution for integrating digital nonlinearity equalisation into future transceivers."
     }
   ],
   "awards": [
@@ -85,7 +85,7 @@
       "issuer": "NVIDIA Deep Learning Institute",
       "url": "https://learn.nvidia.com/certificates?id=9724f29573744973ac1bae29d165215d",
       "icon": "fa-solid fa-tag"
-    },
+    }
   ],
   "skills": [
     {
@@ -119,8 +119,8 @@
         "Machine learning",
         "Digital signal processing",
         "Information theory",
-        "Optical networks",
+        "Optical networks"
       ]
     }
-  ],  
+  ]
 }
