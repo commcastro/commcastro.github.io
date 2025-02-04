@@ -109,13 +109,31 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
-        "MATLAB",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "MATLAB"
+      ]
+    },
+
+    {
+      "name": "Programming languages",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Numpy",
+        "Scipy",
+        "TensorFlow",
+        "Keras",
+        "Matplotlib"
+      ]
+    },
+
+    {
+      "name": "Package management / Version Control",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Conda",
+        "Git"
       ]
     }
+
   ],
   "languages": [
     {
