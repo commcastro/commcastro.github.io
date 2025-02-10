@@ -1,8 +1,8 @@
 {
-  "basics": [{
+  "basics":
+    {
     "name": "Nelson Castro",
     "label": "Researcher",
-    "image": "",
     "email": "cast1901@aston.ac.uk",
     "location": {
       "address": "James Watt, Aston Street",
@@ -10,7 +10,8 @@
       "city": "Birmingham",
       "countryCode": "UK"
     }
-  }],
+  }
+  ,
   "work": [
     {
       "name": "Microsoft Research Cambridge",
