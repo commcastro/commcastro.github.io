@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -26,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Researcher interested in the application of machine learning to advance engineering. Currently exploring the intersection of machine learning and digital signal processing to design the optical networks of the future.
+Optical communications researcher with expertise in developing machine learning (ML)-based digital signal processing (DSP) solutions for transmission networks. My doctoral research focused on developing power-efficient equalisation schemes for next-generation optical transmission systems. I am proficient in programming, algorithm design, simulations, and implementing custom ML models and DSP pipelines. I also have hands-on experience with experimental validation.
