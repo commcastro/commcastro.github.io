@@ -26,4 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Optical communications researcher with expertise in developing machine learning (ML)-based digital signal processing (DSP) solutions for transmission networks. My doctoral research focused on developing power-efficient equalisation schemes for next-generation optical transmission systems. I am proficient in programming, algorithm design, simulations, and implementing custom ML models and DSP pipelines. I also have hands-on experience with experimental validation.
+Optical communications researcher with expertise in developing machine learning (ML)-based digital signal processing (DSP) solutions for transmission networks. My doctoral research focused on developing power-efficient equalisation schemes for next-generation optical transmission systems.
+
+I am proficient in programming, algorithm design, simulations, and implementing custom ML models and DSP pipelines. I also have hands-on experience with experimental validation.
